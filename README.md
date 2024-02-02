@@ -13,6 +13,5 @@ Developer
 
 <p align="left">
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/1011582103273619456/1203096217660428318/lua.gif?ex=65cfd9aa&is=65bd64aa&hm=78d6dddfc20ca7971c79396c10ada6fa0ad2527a3216048a737319ce203a9ae8&" width="36" height="36" alt="C#" /></a>
-  
 <a href="https://wiki.selfhtml.org/wiki/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/1011582103273619456/1203097196871028766/html.png?ex=65cfda94&is=65bd6594&hm=6f8c83c7902a1117f9f3301ca116f7f618f8814389e18811ac7965b9b3533dc5&" width="36" height="36" alt="C#" /></a>
 </p>
