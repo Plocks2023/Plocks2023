@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Developer
 
 * 🌍  I'm based in Germany
-* 🧠  I'm learning React, Python, Typescriptn Express.js and JS
-* 🖥️ My Developing languages are Lua, HTML, CSS and PHP
-* 💻 The most time i make Scripts for Fivem or write Codes for Websites
+* 🧠  I'm learning React, Python...
+* 🖥️ My Developing languages are Lua, HTML and CSS
+* 💻 The most time i make Scripts for Fivem
 
